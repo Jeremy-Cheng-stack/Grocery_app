@@ -1,3 +1,3 @@
-# GProject
+# Grocery App Project
 
-CSCB07 Project
+The final group project for our software design class at UofT
